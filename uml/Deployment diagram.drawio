@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T08:41:45.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" version="22.0.6" etag="yJ521MOR8SEJJVUZgZ3v" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T08:50:39.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="1CzBtuiYAKqX1SCdsRv7" version="22.0.6" type="github">
   <diagram name="Page-1" id="DVtKG74p23xkMqfBIy70">
-    <mxGraphModel>
+    <mxGraphModel dx="930" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="36u8DBSq3pbAPAM8gi_v-1" value="Goolge Colab" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="36u8DBSq3pbAPAM8gi_v-2" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0;entryDx=120;entryDy=95;entryPerimeter=0;" edge="1" parent="1" source="36u8DBSq3pbAPAM8gi_v-5" target="36u8DBSq3pbAPAM8gi_v-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="290" as="sourcePoint" />
+            <mxPoint x="250" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="240" />
+              <mxPoint x="150" y="240" />
+              <mxPoint x="150" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36u8DBSq3pbAPAM8gi_v-5" value="Client Browser" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="36u8DBSq3pbAPAM8gi_v-10" value="Model" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="36u8DBSq3pbAPAM8gi_v-11" value="Interface" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="36u8DBSq3pbAPAM8gi_v-15" value="Data" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="36u8DBSq3pbAPAM8gi_v-16" value="Tableau Public" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="630" y="60" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="36u8DBSq3pbAPAM8gi_v-17" value="Dashboard" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="36u8DBSq3pbAPAM8gi_v-18" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0;exitY=0.556;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="36u8DBSq3pbAPAM8gi_v-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="260" as="sourcePoint" />
+            <mxPoint x="725" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="240" />
+              <mxPoint x="725" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
